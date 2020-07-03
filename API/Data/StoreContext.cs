@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Data
 {
-    public class StoreContext : DbConext
+    public class StoreContext : DbContext
     {
 
     }
